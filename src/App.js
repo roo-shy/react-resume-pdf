@@ -62,7 +62,7 @@ class App extends Component {
                     <div style={{
                         height: 792,
                         width: 612,
-                        padding: 'none',
+                        padding: '20px',
                         backgroundColor: 'white',
                         boxShadow: '5px 5px 5px black',
                         margin: 'auto',
